@@ -1,0 +1,7 @@
+C:\GitHub\Directorio\Directorio\Directorio\bin\Debug\Directorio.exe.config
+C:\GitHub\Directorio\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\GitHub\Directorio\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\GitHub\Directorio\Directorio\Directorio\obj\Debug\Directorio.csproj.AssemblyReference.cache
+C:\GitHub\Directorio\Directorio\Directorio\obj\Debug\Directorio.csproj.CoreCompileInputs.cache
+C:\GitHub\Directorio\Directorio\Directorio\obj\Debug\Directorio.exe
+C:\GitHub\Directorio\Directorio\Directorio\obj\Debug\Directorio.pdb
